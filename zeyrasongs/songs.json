@@ -1,0 +1,22 @@
+{
+    "tracks": [
+        {
+            "id": 1,
+            "title": "Gölgen Benimle",
+            "artist": "Zeynep Mavi & Mert Demir",
+            "cover": "zeyrasongs/sound1/Balım.png",
+            "trackUrl": "zeyrasongs/sound1/gölgenbenimle.mp3",
+            "duration": "3:59",
+            "lyrics": "Hayat bayram olsa, her gün bayram olsa\nSevdiklerimle bir arada olsam"
+        },
+        {
+            "id": 2,
+            "title": "Sonsuz Mavi",
+            "artist": "Zeynep Mavi & Mert Demir",
+            "cover": "zeyrasongs/sound1/Balım.png",
+            "trackUrl": "zeyrasongs/sound2/sonsuzmavi.mp3",
+            "duration": "3:59",
+            "lyrics": "Hayat bayram olsa, her gün bayram olsa\nSevdiklerimle bir arada olsam"
+        }
+    ]
+}
