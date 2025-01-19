@@ -18,6 +18,7 @@
             "duration": "3:59",
             "lyrics": "Hayat bayram olsa, her gün bayram olsa\nSevdiklerimle bir arada olsam"
         },
+        {
             "id": 3,
             "title": "Bir Umut Benimle",
             "artist": "Zeynep Mavi & Mert Demir",
@@ -25,6 +26,6 @@
             "trackUrl": "zeyrasongs/sound3/birumutbenimle.mp3",
             "duration": "3:59",
             "lyrics": "Hayat bayram olsa, her gün bayram olsa\nSevdiklerimle bir arada olsam"
-        }
+        },
     ]
 }
