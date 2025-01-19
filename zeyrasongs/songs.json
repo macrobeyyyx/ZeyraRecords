@@ -26,6 +26,15 @@
         "trackUrl": "zeyrasongs/sound3/birumutbenimle.mp3",
         "duration": "3:59",
         "lyrics": "Hayat bayram olsa, her gün bayram olsa\nSevdiklerimle bir arada olsam"
+        },
+                {
+        "id": 4,
+        "title": "Yıldızlar Ve Sen",
+        "artist": "Zeynep Mavi & Mert Demir",
+        "cover": "zeyrasongs/sound4/Balım.png",
+        "trackUrl": "zeyrasongs/sound4/yildizlarvesen.mp3",
+        "duration": "3:59",
+        "lyrics": "Hayat bayram olsa, her gün bayram olsa\nSevdiklerimle bir arada olsam"
         }
     ]
 }
