@@ -1,0 +1,94 @@
+{
+    "tracks": [
+        {
+            "id": 1,
+            "title": "Gölgen Benimle",
+            "artist": "Zeynep Mavi & Mert Demir",
+            "cover": "zeyrasongs/sound1/Balım.png",
+            "trackUrl": "zeyrasongs/sound1/gölgenbenimle.mp3",
+            "duration": "3:59",
+            "lyrics": "[Verse 1]\nİçimde sönen bir şehir ışığı gibi hissediyorum\nGeceler, kaybolan düşlerime sessizce eşlik ediyor\nSensizliğin rüzgârı içimde derin izler bırakıyor\nKimse bilmiyor, nasıl kayboldum bu dipsiz boşlukta\n\n[Pre-Chorus]\nGittin ama gölgen hâlâ benimle yürüyor\nSarf ettiğin her kelime aklımda yankılanıyor\nUnut dediler, fakat hiç kimse nasıl olacağını söylemedi\nBen seninle anlam buldum, şimdi hangi yöne savrulsam?\n\n[Chorus]\nKırık cam misali dağıldım her yere\nToparlasam bile, hep bir yanım eksik kalıyor\nBunca anıyı bir veda cümlesine sığdıramam\nSen çoktan unuttun, ama ben hâlâ buradayım\n\n[Verse 2]\nDerdimi anlatacak birini bulsam da kelimeler yetmiyor\nİçimde kopan fırtınaların sesini kimse duymuyor\nSensiz bu şehir bomboş, soğuk ve tanıdık değil\nKaybolsam bile, yollarım yine sana çıkar mı?\n\n[Bridge]\nBeni yalnızca bir anı olarak bırakacağına\nBir kez daha gözlerime bakıp kalabilseydin keşke\nGecikmeli de olsa anladım, aşk her zaman kazanmıyor\nVe en çok sevenler, her zaman en önce unutuluyor\n\n[Chorus]\nKırık cam misali dağıldım her yere\nToparlasam bile, hep bir yanım eksik kalıyor\nBunca anıyı bir veda cümlesine sığdıramam\nSen çoktan unuttun, ama ben hâlâ buradayım\n\n[Outro]\nŞimdi hangi sokakta, hangi şehirde kayboluyorsun?\nBen hâlâ buradayım, unutmanın yollarını arıyorum\nAma bazı yaralar zamanla silinmez\nÇünkü bazı vedalar, geride yalnızca boşluk bırakır..."
+        },
+        {
+            "id": 2,
+            "title": "Sonsuz Mavi",
+            "artist": "Zeynep Mavi & Mert Demir",
+            "cover": "zeyrasongs/sound2/Balım.png",
+            "trackUrl": "zeyrasongs/sound2/sonsuzmavi.mp3",
+            "duration": "3:59",
+            "lyrics": "Hayat bayram olsa, her gün bayram olsa\nSevdiklerimle bir arada olsam"
+        },
+        {
+            "id": 3,
+            "title": "Bir Umut Benimle",
+            "artist": "Zeynep Mavi & Mert Demir",
+            "cover": "zeyrasongs/sound3/Balım.png",
+            "trackUrl": "zeyrasongs/sound3/birumutbenimle.mp3",
+            "duration": "3:59",
+            "lyrics": "Hayat bayram olsa, her gün bayram olsa\nSevdiklerimle bir arada olsam"
+        },
+        {
+            "id": 4,
+            "title": "Yıldızlar Ve Sen",
+            "artist": "Zeynep Mavi & Mert Demir",
+            "cover": "zeyrasongs/sound4/Balım.png",
+            "trackUrl": "zeyrasongs/sound4/yildizlarvesen.mp3",
+            "duration": "3:59",
+            "lyrics": "Haaat bayram olsa, her gün bayram olsa\nSevdiklerimle bir arada olsam"
+        },
+        {
+        "id": 5,
+        "title": "Işıldar",
+        "artist": "Zeynep Mavi & Mert Demir",
+        "cover": "zeyrasongs/sound5/Balım.png",
+        "trackUrl": "zeyrasongs/sound5/Işıldar.mp3",
+        "duration": "3:59",
+        "lyrics": "Haaat bayram olsa, her gün bayram olsa\nSevdiklerimle bir arada olsam"
+    },
+    {
+        "id": 6,
+        "title": "Eksik Sayfalar",
+        "artist": "Zeynep Mavi & Mert Demir",
+        "cover": "zeyrasongs/sound6/Balım.png",
+        "trackUrl": "zeyrasongs/sound6/EksikSayfalar.mp3",
+        "duration": "3:59",
+        "lyrics": "Haaat bayram olsa, her gün bayram olsa\nSevdiklerimle bir arada olsam"
+    },
+    {
+        "id": 7,
+        "title": "Sonsuza Dek Gitmem",
+        "artist": "Zeynep Mavi & Mert Demir",
+        "cover": "zeyrasongs/sound7/Balım.png",
+        "trackUrl": "zeyrasongs/sound7/SonsuzaDekGitmem.mp3",
+        "duration": "3:59",
+        "lyrics": "Haaat bayram olsa, her gün bayram olsa\nSevdiklerimle bir arada olsam"
+    },
+    {
+        "id": 8,
+        "title": "Zaten Gitmiştin",
+        "artist": "Zeynep Mavi & Mert Demir",
+        "cover": "zeyrasongs/sound8/Balım.png",
+        "trackUrl": "zeyrasongs/sound8/ZatenGitmiştin.mp3",
+        "duration": "3:59",
+        "lyrics": "Haaat bayram olsa, her gün bayram olsa\nSevdiklerimle bir arada olsam"
+    },
+    {
+        "id": 9,
+        "title": "Hiç Gitmedin",
+        "artist": "Zeynep Mavi & Mert Demir",
+        "cover": "zeyrasongs/sound9/Balım.png",
+        "trackUrl": "zeyrasongs/sound9/HiçGitmedin.mp3",
+        "duration": "3:59",
+        "lyrics": "Haaat bayram olsa, her gün bayram olsa\nSevdiklerimle bir arada olsam"
+    },
+    {
+        "id": 10,
+        "title": "Ve Sen Hep Buradasın",
+        "artist": "Zeynep Mavi & Mert Demir",
+        "cover": "zeyrasongs/sound10/Balım.png",
+        "trackUrl": "zeyrasongs/sound10/VesenHepBurdasın.mp3",
+        "duration": "3:59",
+        "lyrics": "Haaat bayram olsa, her gün bayram olsa\nSevdiklerimle bir arada olsam"
+    }
+    ]
+}
