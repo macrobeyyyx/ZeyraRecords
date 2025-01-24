@@ -72,6 +72,7 @@ export default class App {
                 <img src="${track.cover || 'assets/default-cover.jpg'}" alt="${track.title}">
                 <div class="track-info">
                     <h3>${track.title}</h3>
+                    <p>${track.album}</p>
                     <p>${track.artist}</p>
                 </div>
                 <button class="play-btn" data-action="play">
@@ -79,7 +80,27 @@ export default class App {
                 </button>
             </div>
         `).join('');
-
+        function createTrackCard(track) {
+            const card = document.createElement('div');
+            card.classList.add('track-card');
+            card.innerHTML = `
+                <img src="${track.cover}" alt="${track.title}">
+                <div class="track-info">
+                    <h3>${track.title}</h3>
+                    <p>${track.artist}</p>
+                </div>
+                <button class="favorite-btn" data-track-id="${track.id}">
+                    <i class="fas fa-heart ${favoriteManager.favorites.some(f => f.id === track.id) ? 'active' : ''}"></i>
+                </button>
+            `;
+        
+            const favoriteBtn = card.querySelector('.favorite-btn');
+            favoriteBtn.addEventListener('click', () => {
+                favoriteManager.addToFavorites(track);
+            });
+        
+            return card;
+        }
         this.setupTrackListeners();
     }
 
