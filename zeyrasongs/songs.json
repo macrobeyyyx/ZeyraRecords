@@ -3,6 +3,7 @@
         {
             "id": 1,
             "title": "Gölgen Benimle",
+            "album": "BALIM",
             "artist": "Zeynep Mavi & Mert Demir",
             "cover": "zeyrasongs/sound1/Balım.png",
             "trackUrl": "zeyrasongs/sound1/gölgenbenimle.mp3",
@@ -13,82 +14,91 @@
             "id": 2,
             "title": "Sonsuz Mavi",
             "artist": "Zeynep Mavi & Mert Demir",
+            "album": "BALIM",
             "cover": "zeyrasongs/sound2/Balım.png",
             "trackUrl": "zeyrasongs/sound2/sonsuzmavi.mp3",
             "duration": "3:59",
-            "lyrics": "Hayat bayram olsa, her gün bayram olsa\nSevdiklerimle bir arada olsam"
+            "lyrics": "[Verse 1]\nHipnoz olduğum şey,\nHayaller, yıldızlar ve şehir ışıkları.\nPara benim ailemi kurtarır,\nAma ruhumu kim kurtaracak?\n\nKayboldum, başa döndüm,\nİçimde bir çocuk, suskun ve küskün.\nGözlerin bi’ fısıltı, bi’ lanet, bi’ mucize,\nBeni en sonunda sen bulacak mısın?\n\nFotoğraflar soluk, anılar eksik,\nYüzümde bi’ gölge, bakışlar dengesiz.\nDüşüyordum derinlere, kalbim paslı bi’ kilit,\nAma sen geldin, açtın beni içimden sessizce…\n\n[Pre-Chorus]\nKoştum, koştum, kaçamadım,\nBir yabancıydım, sen bana kaldın.\nGözlerin dipsiz bir okyanus gibi,\nAma bu kez düşmekten korkmadım…\n\n[Chorus]\n\"Romantik\" ne demek? Bilmem romantizm,\nAma o kadar içtim ki her şey olduğundan daha galaktik.\nBu yasal değil, bu kadar güzel olman yasal değil,\nAromatik, kokun her yanımda aromatik.\n\nGeceler kısa, ellerin sıcak,\nDünya dönmüyor, zaman duracak.\nAromatik, seni içime çeker gibi,\nBeni unutsan bile, ben seni unutmam hiç…\n\n[Verse 2]\nTutkuların hiç seni oyuncak etti mi?\nBen ettim, geçmişime bak ve gör beni.\nAma içini görünce, senin yanındayken,\nİlk defa bi’ sabah korkmadan uyandım.\n\nGözlerin bi’ melodi, nefesin bi’ şiir,\nTeninde kayboldum, ruhum bi’ şehir.\nSensiz bi’ dünya sessiz, anlamsız,\nBeni buldun, artık kaçış yok, anladım.\n\n[Bridge]\nKoştum, koştum, sonunda vardım,\nEllerini tuttum ve kaybolmadım.\nGözlerin sonsuz bi’ mavilik gibi,\nBu kez düşsem de, tutan sen oldun…\n\n[Final - Chorus]\n\"Romantik\" ne demek? Bilmem romantizm,\nAma o kadar içtim ki her şey olduğundan daha galaktik.\nBu yasal değil, bu kadar güzel olman yasal değil,\nAromatik, kokun her yanımda aromatik.\n\nGeceler kısa, ellerin sıcak,\nDünya dönmüyor, zaman duracak.\nAromatik, seni içime çeker gibi,\nBeni unutsan bile, ben seni unutmam hiç…\n\n[Outro]\nDedim bir insan nasıl hissedebilir?\nMeğer çoktan hissetmişim…\nAşk, en çok unuttuğun yerde seni bulurmuş…"
         },
         {
             "id": 3,
             "title": "Bir Umut Benimle",
             "artist": "Zeynep Mavi & Mert Demir",
+            "album": "BALIM",
             "cover": "zeyrasongs/sound3/Balım.png",
             "trackUrl": "zeyrasongs/sound3/birumutbenimle.mp3",
             "duration": "3:59",
-            "lyrics": "Hayat bayram olsa, her gün bayram olsa\nSevdiklerimle bir arada olsam"
+            "lyrics": "[Verse 1]\nGözlerinde saklı bir hüzün var,\nRüzgâr bile usulca eser.\nİçinde kopan fırtınaları,\nKimse bilmez, kimse sezmez.\n\n[Verse 2]\nGecelerde kaybolan yıldız gibi,\nSessizce düşer bir damla yaş.\nKalbimde yankılanır adın,\nHüzün sana hiç yakışmaz.\n\n[Pre-Chorus]\nGeceye düşen bir damla ışık,\nKaranlıkta kaybolmasın.\nBir gülüşün yeter bana,\nYeter ki gözlerin solmasın.\n\n[Chorus]\nSen gül yine,\nBir damla umut yeter.\nSen susma, gülüm,\nKalbimde bahar biter.\n\nYollarına\nGölge düşse yürürüm.\nGözlerinden\nTüm acını silerim.\n\n[Bridge]\nGecenin koynunda ay kaybolursa,\nGözlerinde ışık olurum.\nSen bana bir damla umut versen,\nDünyayı bile unuturum.\n\n[Chorus – Final]\nSen gül yine,\nBir damla umut yeter.\nSen susma, gülüm,\nKalbimde bahar biter.\n\nYollarına\nGölge düşse yürürüm.\nGözlerinden\nTüm acını silerim.\n\n[Outro]\nSen gül yine…\nBir damla umut yeter…"
         },
         {
             "id": 4,
             "title": "Yıldızlar Ve Sen",
             "artist": "Zeynep Mavi & Mert Demir",
+            "album": "BALIM",
             "cover": "zeyrasongs/sound4/Balım.png",
             "trackUrl": "zeyrasongs/sound4/yildizlarvesen.mp3",
             "duration": "3:59",
-            "lyrics": "Haaat bayram olsa, her gün bayram olsa\nSevdiklerimle bir arada olsam"
+            "lyrics": "[Verse 1]\nSevgilim, ah\nYıldızlar kayarken, bir de sen gidersen\nGöklerde kaybolurum, sen kalmazsan eğer\nZaman durur, seninle her şey tamam\nVe sana söylesem, seninle gerçek ben olurum\n\n[Verse 2]\nBak, sevgilim, bak\nBütün evren seninle, sevgilim, bak\nKeşke bir peri gibi çıkıp gelseydin\nBöyle değil miydi, seninle her an bir masal gibi?\n\nO gözlerindeki yıldız, içimden parlayan\nBir diğer dünya gibi, seninle her şey rüya\nDalgalarla konuştuğumuz o gizemli sahil\nBizi izleyen ay, her adımımızı kaydediyor\n\n[Bridge]\nAşkımız, bir yıldızın patlaması gibi\nBir gökyüzüne fısıldanan, sonsuz dilek gibi\nHer an seninle, zaman kaybolur\nVe her an, seni sevmenin anlamı büyür\n\nYağmurla dans ettiğimiz o anlar gibi\nSonsuza kadar sürecek bir sevda bu\nAdımlarımızı izleyen rüzgar,\nBizi götürür, kalbimizin en derin yerine\n\n[Verse 3]\nBen hatalı, belki de kaybolmuş bir gezegenim\nAma seninle bulurum yuvamı, kaybolmuş bir evrenin\nZamanın ötesine geçerim, yalnızca seninle\nVe sonsuzluğa adım atarken, seninle olur her şey gerçek\n\n[Chorus]\nYıldızlar kayarken, bir de sen gidersen\nGöklerde kaybolurum, sen kalmazsan eğer\nZaman durur, seninle her şey tamam\nVe sana söylesem, seninle gerçek ben olurum tamamlar mısın şarkıyı\n\n[Chorus]\nYıldızlar kayarken, bir de sen gidersen\nGöklerde kaybolurum, sen kalmazsan eğer\nZaman durur, seninle her şey tamam\nVe sana söylesem, seninle gerçek ben olurum\n\n[Outro]\nSonsuza kadar seninle, her an bir masal gibi\nVe kaybolduğumda, seninle bulurum beni\nBirlikte yazdık bu hikayeyi, seninle, sevgilim\nHer adımda seninle, sonsuza dek bu dünyada kalırım"
         },
         {
-        "id": 5,
-        "title": "Işıldar",
-        "artist": "Zeynep Mavi & Mert Demir",
-        "cover": "zeyrasongs/sound5/Balım.png",
-        "trackUrl": "zeyrasongs/sound5/Işıldar.mp3",
-        "duration": "3:59",
-        "lyrics": "Haaat bayram olsa, her gün bayram olsa\nSevdiklerimle bir arada olsam"
-    },
-    {
-        "id": 6,
-        "title": "Eksik Sayfalar",
-        "artist": "Zeynep Mavi & Mert Demir",
-        "cover": "zeyrasongs/sound6/Balım.png",
-        "trackUrl": "zeyrasongs/sound6/EksikSayfalar.mp3",
-        "duration": "3:59",
-        "lyrics": "Haaat bayram olsa, her gün bayram olsa\nSevdiklerimle bir arada olsam"
-    },
-    {
-        "id": 7,
-        "title": "Sonsuza Dek Gitmem",
-        "artist": "Zeynep Mavi & Mert Demir",
-        "cover": "zeyrasongs/sound7/Balım.png",
-        "trackUrl": "zeyrasongs/sound7/SonsuzaDekGitmem.mp3",
-        "duration": "3:59",
-        "lyrics": "Haaat bayram olsa, her gün bayram olsa\nSevdiklerimle bir arada olsam"
-    },
-    {
-        "id": 8,
-        "title": "Zaten Gitmiştin",
-        "artist": "Zeynep Mavi & Mert Demir",
-        "cover": "zeyrasongs/sound8/Balım.png",
-        "trackUrl": "zeyrasongs/sound8/ZatenGitmiştin.mp3",
-        "duration": "3:59",
-        "lyrics": "Haaat bayram olsa, her gün bayram olsa\nSevdiklerimle bir arada olsam"
-    },
-    {
-        "id": 9,
-        "title": "Hiç Gitmedin",
-        "artist": "Zeynep Mavi & Mert Demir",
-        "cover": "zeyrasongs/sound9/Balım.png",
-        "trackUrl": "zeyrasongs/sound9/HiçGitmedin.mp3",
-        "duration": "3:59",
-        "lyrics": "Haaat bayram olsa, her gün bayram olsa\nSevdiklerimle bir arada olsam"
-    },
-    {
-        "id": 10,
-        "title": "Ve Sen Hep Buradasın",
-        "artist": "Zeynep Mavi & Mert Demir",
-        "cover": "zeyrasongs/sound10/Balım.png",
-        "trackUrl": "zeyrasongs/sound10/VesenHepBurdasın.mp3",
-        "duration": "3:59",
-        "lyrics": "Haaat bayram olsa, her gün bayram olsa\nSevdiklerimle bir arada olsam"
-    }
+            "id": 5,
+            "title": "Işıldar",
+            "artist": "Zeynep Mavi & Mert Demir",
+            "cover": "zeyrasongs/sound5/Balım.png",
+            "album": "BALIM",
+            "trackUrl": "zeyrasongs/sound5/Işıldar.mp3",
+            "duration": "3:59",
+            "lyrics": "[Verse 1]\nIşıldar, karanlığın derinliklerinde bir ateş\nSonsuz bir sessizlikte kaybolurum ben,\nZamanın parıltısı, düşlerimle buluşur,\nSeninle her an, yeni bir evren doğar.\nBeni bulursun, kaybolduğum her boşlukta,\nYıldızlar düşerken, seninle her şey silinir.\nBir masal bu, ama seninle gerçek olur,\nHer kırık hatıra, seninle birleşir, bir bütün olur.\n\n[Pre-Chorus]\nGeçmişin gölgeleri kaybolur, sadece sen kalırsın,\nZamanın zincirleri, seninle çözülür.\nBir adım daha, seni izlerim,\nVe her şeyin anlamı seninle bulunur, kaybolur.\n\n[Chorus]\nIşıldar, gözlerindeki ateş,\nVe her bir yanımda seni ararım.\nBir fırtına gibi, içimdeki huzursuzluk,\nSeninle sakinleşir, bir orman gibi.\nBir çiçek gibi açar, geceyi seninle bulurum,\nVe her kaybolan anı, seninle geri getiririm.\n\n[Verse 2]\nBir kalp, seni beklerken susar,\nAma seninle her şeyin sesi vardır.\nBir deniz gibi, içimde dalgalanırsın,\nVe ben seni hep ararım, kaybolurum her köşede.\nBeni bulursan, zaman durur, bir adımda,\nSonsuza kadar kaybolurum, seninle bir bütün olurum.\nBir rüya gibi, geçer bu hayat,\nAma seninle her şey gerçeğe dönüşür.\n\n[Pre-Chorus]\nSonsuzluğa giden bir yol var, seninle oradayım,\nGeçmişe bakmadan, geleceğe adım atarım.\nBir dokunuşla, her şeyin anlamı değişir,\nVe seninle her şeyin zamanı kaybolur, seninle her şey tamam.\n\n[Chorus]\nIşıldar, gözlerindeki ateş,\nVe her bir yanımda seni ararım.\nBir fırtına gibi, içimdeki huzursuzluk,\nSeninle sakinleşir, bir orman gibi.\nBir çiçek gibi açar, geceyi seninle bulurum,\nVe her kaybolan anı, seninle geri getiririm.\n\n[Bridge]\nZamanı kaybetmişim, ama seninle kazandım,\nBir geceyi seninle yaşarken, sonsuzluğa dokundum.\nKaybolurum, ama seninle her şey var,\nVe her kaybolan parçam, seninle bulur bir yol.\n\n[Outro]\nIşıldar, karanlıkta bir yıldız gibi,\nVe ben hep seni bulurum, kaybolduğum her yerdesin.\nBir yolculuk gibi, seninle her şey kaybolur,\nVe her an, seninle sonsuza kadar kalırım."
+        },
+        {
+            "id": 6,
+            "title": "Eksik Sayfalar",
+            "artist": "Zeynep Mavi & Mert Demir",
+            "album": "BALIM",
+            "cover": "zeyrasongs/sound6/Balım.png",
+            "trackUrl": "zeyrasongs/sound6/EksikSayfalar.mp3",
+            "duration": "3:59",
+            "lyrics": "[Verse]\nTenimde bıraktığın izler\nRüzgar gibi geçti ama hâlâ serinler\nKonuşmadan anladığım tek cümle\n\"Ayrıldık\"\n\nGözlerinde bir şehir vardı\nSokaklarında ben kayboldum\nHangi kapıyı çalsam sessizlik\nBeni duyan kimse yoktu\n\n[Verse]\nEllerin, omzumda bir yük gibi\nNe sarıldın ne de bıraktın beni\nBir anlığına her şey sonsuz gibi\nAma sabah olunca silindik\n\nGözlerin, fısıldayan bir sır gibi\nDuydum ama tam anlamadım\nBelki de aşk, bir yankı gibi\nNe kadar koşsam o kadar uzak\n\n[Chorus]\nZaten biliyordum, kalmayacağını\nAma yine de bekledim, delice\nSen beni gördün kendi gölgende\nAma ben hep oradaydım\n\nZaten biliyordum, solacağımızı\nAma yine de çiçek açtım, sessizce\nSen beni izledin kendi düşlerinde\nAma ben hep yanındaydım\n\n[Verse]\nBu şehir bizim için fazla büyük\nYa da biz fazla küçük kaldık ona\nKollarında kaybolmak varken\nNeden kaçmayı seçtik sonunda?\n\nBir masal gibi başlamıştık\nAma sayfalar eksikti başından\nŞimdi hangi satıra dönsem\nAynı cümleyi yazıyor; \"gitme\"\n\n[Chorus]\nZaten biliyordum, kalmayacağını\nAma yine de bekledim, delice\nSen beni gördün kendi gölgende\nAma ben hep oradaydım\n\n[Outro]\nZaten biliyordum, solacağımızı\nAma yine de çiçek açtım, sessizce\nSen beni izledin kendi düşlerinde\nAma ben hep yanındaydım"
+        },
+        {
+            "id": 7,
+            "title": "Sonsuza Dek Gitmem",
+            "artist": "Zeynep Mavi & Mert Demir",
+            "cover": "zeyrasongs/sound7/Balım.png",
+            "album": "BALIM",
+            "trackUrl": "zeyrasongs/sound7/SonsuzaDekGitmem.mp3",
+            "duration": "3:59",
+            "lyrics": "[Verse]\nBeni unut diye değil,\nBeni hatırla diye gittim.\nBir zamanlar seni hep bekledim,\nAma bekledikçe içim soldu, sanki sen hiç burada değildin.\n\nGeceleri seni düşündüm,\nSabahları ise seni hatırlamak bile zorlaştı.\nBir adım atsam, seninle her şey olabilirdi.\nAma seni kaybetmekten korktum,\nVe bir gün kaybolduğumda, seni kaybetmiş olurdum.\n\n[Chorus]\nSonsuza dek gitmem,\nEğer bir gün dönersen,\nBeni bekleyen sen misin,\nYoksa eski bir gölge mi?\n\nSonsuza dek gitmem,\nAma artık sen de yoksun.\nEğer beni unutacaksan,\nO zaman hiç sevme beni,\nÇünkü beni sevmen de sana acı verecek.\n\n[Verse]\nO eski caddede yürüdüm,\nYolun sonunda belki seni görürüm diye.\nAma her adımda seni kaybettim.\nYalnızca hatıralar kaldı,\nVe o hatıralar, beni yavaşça öldürdü.\n\nBirlikte gittiğimiz parklarda artık\nBeni hatırlayan kimse yok.\nSonsuza kadar kaybolmaya başladım,\nAma seni hala hissediyorum, her anımda.\n\n[Chorus]\nSonsuza dek gitmem,\nEğer bir gün dönersen,\nBeni bekleyen sen misin,\nYoksa eski bir gölge mi?\n\nSonsuza dek gitmem,\nAma artık sen de yoksun.\nEğer beni unutacaksan,\nO zaman hiç sevme beni,\nÇünkü seni sevmenin de bir bedeli var."
+        },
+        {
+            "id": 8,
+            "title": "Zaten Gitmiştin",
+            "artist": "Zeynep Mavi & Mert Demir",
+            "album": "BALIM",
+            "cover": "zeyrasongs/sound8/Balım.png",
+            "trackUrl": "zeyrasongs/sound8/ZatenGitmiştin.mp3",
+            "duration": "3:59",
+            "lyrics": "[Verse]\nBeni bırakma diye bekledim,\nAma bu bekleyiş her geçen gün daha acı verici oldu.\nBir zamanlar hep hayalini gördüm,\nAma hayalini artık görmemek, seni unutmamak, zorlaştı.\n\nGözlerimde hâlâ sen varsın,\nAma artık dokunamıyorum sana.\nKonuşmasak da, sesin hâlâ kulaklarımda,\nAma senin içindeki boşluk, beni içine çekiyor.\n\n[Chorus]\nSen zaten gitmiştin,\nSonsuza dek kalacağını söylesen bile,\nAma gitmek hiç de kolay olmadı.\nVe hâlâ seni seviyorum,\nAma seni sevmenin de bir bedeli var.\n\nSen zaten gitmiştin,\nBeni beklemeni istememiştim,\nAma seni beklemek, içimdeki boşluğu daha da büyütüyor.\nVe hâlâ seni seviyorum,\nHâlâ seni içimde hissediyorum.\n\n[Verse]\nHer akşam aynı duvarlara bakıp\n\"Sonsuza kadar bekleyecek miyim?\" diye sordum.\nBazen senin adını sayıklarken,\nBir de baktım ki, sen çoktan kaybolmuşsun.\n\nVe sana yazdığım her kelime,\nSonsuza kadar sana ulaşmadı.\nAma hala, kalbimde aynı sevgiyi taşıyorum,\nHer saniye seni kaybetmenin acısıyla yanıyorum.\n\n[Chorus]\nSen zaten gitmiştin,\nSonsuza dek kalacağını söylesen bile,\nAma gitmek hiç de kolay olmadı.\nVe hâlâ seni seviyorum,\nAma seni sevmenin de bir bedeli var.\n\nSen zaten gitmiştin,\nBeni beklemeni istememiştim,\nAma seni beklemek, içimdeki boşluğu daha da büyütüyor.\nVe hâlâ seni seviyorum,\nHâlâ seni içimde hissediyorum."
+        },
+        {
+            "id": 9,
+            "title": "Hiç Gitmedin",
+            "artist": "Zeynep Mavi & Mert Demir",
+            "album": "BALIM",
+            "cover": "zeyrasongs/sound9/Balım.png",
+            "trackUrl": "zeyrasongs/sound9/HiçGitmedin.mp3",
+            "duration": "3:59",
+            "lyrics": "[Verse]\nDönmek istemedim ama,\nDönmesem de gitmedim aslında.\nBir yerlerde seninle bir anı kaldı,\nVe o an hâlâ her gece içimde.\n\nBeni unutmadığını biliyorum,\nAma seni affedebilmem zor.\nGeçmişin gölgesi her an üzerimde,\nBelki de seni hep kaybetmekten korktum.\n\nGeri dönmek kolay mı?\nBeni sen affedebilir misin?\nBelki de her şeyin başlangıcındaki o cesaretim kayboldu,\nVe şimdi her adımda geçmişin yankıları var.\n\n[Chorus]\nHiç gitmedim, sadece kayboldum,\nİçimdeki sen, her zaman vardı.\nBir adım atmak zor, ama denemeliyim,\nÇünkü seni kaybetmeye devam etmek zor.\n\nHiç gitmedim, belki dönerim,\nAma dönüşüm farklı olacak.\nHâlâ seni seviyorum, ama\nGeriye dönmek bu kadar kolay değil.\n\n[Verse]\nBir zamanlar hayal ettiğim o günü düşünüyorum,\nBirlikte olacağımız o günü,\nAma şimdi seni bir yabancı gibi hissediyorum.\nSonsuza dek kaybolduğumda,\nSen hep önümdeki bulanık bir figürsün.\n\nHangi yolda ilerlemeliyim?\nDönüşümde neyi bulurum?\nVe belki de sen hâlâ oradasın,\nAma ben seni çoktan kaybettim.\n\n[Chorus]\nHiç gitmedim, sadece kayboldum,\nİçimdeki sen, her zaman vardı.\nBir adım atmak zor, ama denemeliyim,\nÇünkü seni kaybetmeye devam etmek zor.\n\nHiç gitmedim, belki dönerim,\nAma dönüşüm farklı olacak.\nHâlâ seni seviyorum, ama\nGeriye dönmek bu kadar kolay değil."
+        },
+        {
+            "id": 10,
+            "title": "Ve Sen Hep Buradasın",
+            "artist": "Zeynep Mavi & Mert Demir",
+            "cover": "zeyrasongs/sound10/Balım.png",
+            "album": "BALIM",
+            "trackUrl": "zeyrasongs/sound10/VesenHepBurdasın.mp3",
+            "duration": "3:59",
+            "lyrics": "[Verse]\nBeni bırakma diye bekledim,\nAma şimdi kabul ediyorum, gittiğini.\nBir zamanlar seninle her şeyim oldum,\nAma sen hâlâ geçmişin gölgesindesin.\n\nGeçip giden zamanın içindeyim,\nAma artık hatıralarda kaybolmam gerek.\nÇünkü seni sevmenin yeni bir yolu yok,\nVe belki de bu hiç bitmeyecek bir savaş.\n\nBir zamanlar seni beklemek,\nBeni seninle buluşturacak gibi geldi.\nAma zaman ilerledikçe,\nBeklemek bir ceza, sevgimse ağır bir yük.\n\n[Chorus]\nVe sen hep buradasın,\nHafızamda, her anımda.\nBeni bırakman senin seçimin olsa da,\nBen hâlâ seni içimde yaşıyorum.\n\nVe sen hep buradasın,\nBir yoldaş, bir hüzün gibi.\nArtık kabullendim,\nAma seni hala seviyorum.\n\n[Verse]\nZamanla her şey silindi,\nAma senin yüzün her an önümde.\nBir adım daha atsam,\nBelki de seni hâlâ bulurum.\n\nHâlâ her gece seni bekliyorum,\nAma biliyorum ki, sen gitmedin.\nVe her hatıra, her anı,\nİçimde bir yara açıyor.\n\n[Chorus]\nVe sen hep buradasın,\nHafızamda, her anımda.\nBeni bırakman senin seçimin olsa da,\nBen hâlâ seni içimde yaşıyorum.\n\nVe sen hep buradasın,\nBir yoldaş, bir hüzün gibi.\nArtık kabullendim,\nAma seni hala seviyorum."
+        }
     ]
 }
