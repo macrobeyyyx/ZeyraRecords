@@ -26,7 +26,8 @@ export default class MusicService {
         
         return this.tracks.filter(track => 
             track.title.toLowerCase().includes(query.toLowerCase()) ||
-            track.artist.toLowerCase().includes(query.toLowerCase())
+            track.artist.toLowerCase().includes(query.toLowerCase()) ||
+            track.album.toLowerCase().includes(query.toLowerCase())
         );
     }
 
