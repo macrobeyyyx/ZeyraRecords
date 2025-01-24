@@ -43,7 +43,7 @@ export default class MusicPlayer {
         this.coverEl = document.querySelector('.track-cover');
         this.titleEl = document.querySelector('.track-title');
         this.artistEl = document.querySelector('.track-artist');
-        
+        this.albumEl = document.querySelector('.track-album');
         this.playPauseBtn = document.getElementById('playPauseButton');
         this.prevBtn = document.getElementById('prevButton');
         this.nextBtn = document.getElementById('nextButton');
@@ -103,6 +103,7 @@ export default class MusicPlayer {
         if (this.coverEl) this.coverEl.src = track.cover || 'assets/default-cover.jpg';
         if (this.titleEl) this.titleEl.textContent = track.title || 'Bilinmeyen Şarkı';
         if (this.artistEl) this.artistEl.textContent = track.artist || 'Bilinmeyen Sanatçı';
+        if (this.albumEl) this.albumEl.textContent = track.album || 'Bilinmeyen Albüm';
     }
 
     play() {
